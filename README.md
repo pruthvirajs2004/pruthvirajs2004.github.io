@@ -85,9 +85,9 @@ My portfolio
 |--------|----------|------|
 | CCNA — Routing & Switching | Cisco Authorised Training | 2024 |
 | Windows Server Administration (MCSA level) | Authorised Training | 2024 |
-| Red Hat Enterprise Linux (RHEL) | Authorised Training | 2024 |
-| CompTIA A+ | Authorised Training · In Progress | 2024 |
-| CompTIA Network+ | Authorised Training · In Progress | 2024 |
+| Red Hat Enterprise Linux (RHEL) | Authorised Training | 2025 |
+| CompTIA A+ | Authorised Training · In Progress |
+| CompTIA Network+ | Authorised Training · In Progress |
 
 ---
 
