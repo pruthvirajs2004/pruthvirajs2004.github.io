@@ -91,13 +91,6 @@ My portfolio
 
 ---
 
-## 📊 GitHub Stats
-
-![Pruthvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pruthvirajs2004&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvirajs2004&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pruthviraj154-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pruthviraj154)
